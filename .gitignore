@@ -8,6 +8,7 @@
 
 
 # Project-specific ignores
+/Assets/_Recovery.meta
 /Assets/_Recovery/
 /Assets/Universal Sound FX/
 /Assets/Voices - Essentials/
