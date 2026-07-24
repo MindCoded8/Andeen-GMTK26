@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 21ae775f0c86d4f4e80ad22dca666aef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 190228
+  packageName: Dark Knight
+  packageVersion: 1.0
+  assetPath: Assets/Dark Knight/Animations/Idle_0.controller
+  uploadId: 420106
