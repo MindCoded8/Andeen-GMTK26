@@ -163,6 +163,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -178,9 +191,25 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
+      outline:
+      - - {x: 15, y: -17}
+        - {x: 18, y: -11}
+        - {x: 17, y: -3}
+        - {x: 25, y: 5}
+        - {x: 25, y: 14}
+        - {x: 24, y: 16}
+        - {x: 18, y: 16}
+        - {x: 2, y: 9}
+        - {x: -4, y: 15}
+        - {x: -14, y: 16}
+        - {x: -20, y: 12}
+        - {x: -20, y: -1}
+        - {x: -15, y: -8}
+        - {x: -7, y: -9}
+        - {x: -3, y: -19}
+        - {x: 11, y: -19}
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: 0.247
       bones: []
       spriteID: 4b60f3b428266f641882fff33b3d5e5a
       internalID: -4795363162621231457
@@ -200,9 +229,25 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
+      outline:
+      - - {x: 14, y: -16}
+        - {x: 18, y: -12}
+        - {x: 25, y: 6}
+        - {x: 25, y: 12}
+        - {x: 24, y: 16}
+        - {x: 22, y: 17}
+        - {x: 16, y: 17}
+        - {x: 1, y: 7}
+        - {x: -1, y: 13}
+        - {x: -7, y: 17}
+        - {x: -20, y: 14}
+        - {x: -20, y: 0}
+        - {x: -16, y: -8}
+        - {x: -5, y: -18}
+        - {x: -2, y: -19}
+        - {x: 6, y: -19}
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: 0.247
       bones: []
       spriteID: 10226d6044353eb4fa948bd574ea736f
       internalID: -3652676412848291748
@@ -222,9 +267,23 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
+      outline:
+      - - {x: 24, y: 5}
+        - {x: 25, y: 10}
+        - {x: 25, y: 13}
+        - {x: 23, y: 17}
+        - {x: 17, y: 17}
+        - {x: 4, y: 10}
+        - {x: -7, y: 17}
+        - {x: -13, y: 17}
+        - {x: -18, y: 13}
+        - {x: -19, y: 9}
+        - {x: -19, y: 0}
+        - {x: -17, y: -4}
+        - {x: -4, y: -16}
+        - {x: 18, y: -16}
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: 0.247
       bones: []
       spriteID: 0ad4b872376ed3e4486247ba89b9be8d
       internalID: -596950462376016933
@@ -244,9 +303,21 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
+      outline:
+      - - {x: 24, y: 0}
+        - {x: 24, y: 8}
+        - {x: 23, y: 10}
+        - {x: 2, y: 8}
+        - {x: -9, y: 12}
+        - {x: -17, y: 12}
+        - {x: -19, y: 8}
+        - {x: -19, y: -2}
+        - {x: -6, y: -4}
+        - {x: -7, y: -12}
+        - {x: -3, y: -17}
+        - {x: 15, y: -17}
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: 0.247
       bones: []
       spriteID: 6175273388504464690a5ffdb4b6e945
       internalID: -4538786591655478766
@@ -266,9 +337,22 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
+      outline:
+      - - {x: 18, y: -13}
+        - {x: 20, y: -6}
+        - {x: 24, y: 0}
+        - {x: 24, y: 7}
+        - {x: 21, y: 10}
+        - {x: 2, y: 11}
+        - {x: -16, y: 11}
+        - {x: -20, y: 6}
+        - {x: -20, y: 1}
+        - {x: -18, y: -4}
+        - {x: -9, y: -6}
+        - {x: -6, y: -17}
+        - {x: 15, y: -17}
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: 0.247
       bones: []
       spriteID: 2b82a24c2d9256047b65475093a49a14
       internalID: 8639066506597270619
@@ -288,9 +372,21 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
+      outline:
+      - - {x: 14, y: -17}
+        - {x: 17, y: -8}
+        - {x: 25, y: -3}
+        - {x: 25, y: 0}
+        - {x: 24, y: 6}
+        - {x: 10, y: 10}
+        - {x: -18, y: 10}
+        - {x: -21, y: 5}
+        - {x: -21, y: 0}
+        - {x: -17, y: -5}
+        - {x: 0, y: -18}
+        - {x: 10, y: -18}
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: 0.247
       bones: []
       spriteID: b03cc7e3212354449903d7c9f940e356
       internalID: -4262185617143388622
@@ -310,9 +406,21 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
+      outline:
+      - - {x: 19, y: -12}
+        - {x: 25, y: -3}
+        - {x: 25, y: 6}
+        - {x: 10, y: 9}
+        - {x: -5, y: 9}
+        - {x: -19, y: 5}
+        - {x: -19, y: -5}
+        - {x: -14, y: -11}
+        - {x: -7, y: -10}
+        - {x: -2, y: -18}
+        - {x: 2, y: -19}
+        - {x: 8, y: -19}
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: 0.247
       bones: []
       spriteID: 9d78b014b5797f54bb5585f62835f8ab
       internalID: 5066340549283584134
@@ -332,9 +440,21 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
+      outline:
+      - - {x: 19, y: -11}
+        - {x: 25, y: -1}
+        - {x: 25, y: 2}
+        - {x: 22, y: 8}
+        - {x: 21, y: 9}
+        - {x: -5, y: 9}
+        - {x: -19, y: 6}
+        - {x: -19, y: -4}
+        - {x: -18, y: -6}
+        - {x: -2, y: -19}
+        - {x: 0, y: -20}
+        - {x: 6, y: -20}
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: 0.247
       bones: []
       spriteID: 33f8db84057f2e143a48f74752555df2
       internalID: 7784096630628774620

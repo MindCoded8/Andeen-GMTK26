@@ -182,7 +182,7 @@ Transform:
   m_GameObject: {fileID: 4972557872035733839}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -89.7311, y: 18.13, z: -1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 4.5, y: 4.5, z: 4.5}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -333,7 +333,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0.67}
+  m_Offset: {x: 0, y: 0.716908}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
@@ -343,7 +343,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.65, y: 1.1}
+  m_Size: {x: 0.19756058, y: 0.14840722}
   m_EdgeRadius: 0
 --- !u!114 &8576816420169834740
 MonoBehaviour:
@@ -813,7 +813,7 @@ MonoBehaviour:
         Active: 1
         UniqueID: -1903734955
         Label: Particles Instantiation
-        OriginalLabel: 
+        OriginalLabel: Particles Instantiation
         ChannelMode: 0
         Channel: 0
         MMChannelDefinition: {fileID: 0}
