@@ -450,7 +450,8 @@ namespace MoreMountains.CorgiEngine
 				Physics2D.queriesStartInColliders = true;
 				Physics2D.callbacksOnDisable = true;
 				Physics2D.reuseCollisionCallbacks = true;
-				Physics2D.autoSyncTransforms = false;
+				//Physics2D.autoSyncTransforms = false;
+				Physics2D.SyncTransforms();
 
 				if (PlatformMask.MMContains(this.gameObject.layer))
 				{
