@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 95970849067125028}
   - component: {fileID: 114754017502457760}
   m_Layer: 0
-  m_Name: RetroStimpackPicker
+  m_Name: StimpackPicker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -182,7 +182,7 @@ MonoBehaviour:
   DisableTargetObjectOnPick: 0
   TargetObjectToDisable: {fileID: 0}
   TargetObjectDisableDelay: 1
-  HealthToGive: 20
+  HealthToGive: 10
 --- !u!1 &4038254368927952064
 GameObject:
   m_ObjectHideFlags: 0
@@ -339,7 +339,7 @@ MonoBehaviour:
         Active: 1
         UniqueID: -819060950
         Label: Particles Instantiation
-        OriginalLabel: 
+        OriginalLabel: Particles Instantiation
         ChannelMode: 0
         Channel: 0
         MMChannelDefinition: {fileID: 0}
@@ -437,7 +437,7 @@ MonoBehaviour:
         Active: 1
         UniqueID: 489075780
         Label: Sound
-        OriginalLabel: 
+        OriginalLabel: Sound
         ChannelMode: 0
         Channel: 0
         MMChannelDefinition: {fileID: 0}
