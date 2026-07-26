@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: e17f52753a2e87148a1f2ec5854c6a64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: avatar_0
+  - first:
+      213: 21300002
+    second: avatar_1
+  - first:
+      213: 21300004
+    second: avatar_2
+  - first:
+      213: 21300006
+    second: avatar_3
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 67, y: 339, z: 502, w: 52}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: avatar_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 341
+        width: 302
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 0, z: 15, w: 0}
+      customData: 
+      outline:
+      - - {x: 36, y: -131}
+        - {x: 50, y: -125}
+        - {x: 67, y: -117}
+        - {x: 75, y: -112}
+        - {x: 83, y: -106}
+        - {x: 98, y: -92}
+        - {x: 106, y: -81}
+        - {x: 111, y: -75}
+        - {x: 122, y: -53}
+        - {x: 125, y: -44}
+        - {x: 130, y: -25}
+        - {x: 131, y: -19}
+        - {x: 132, y: -11}
+        - {x: 132, y: 0}
+        - {x: 131, y: 13}
+        - {x: 128, y: 33}
+        - {x: 122, y: 47}
+        - {x: 114, y: 64}
+        - {x: 109, y: 72}
+        - {x: 103, y: 80}
+        - {x: 88, y: 95}
+        - {x: 79, y: 103}
+        - {x: 67, y: 111}
+        - {x: 47, y: 120}
+        - {x: 41, y: 122}
+        - {x: 22, y: 127}
+        - {x: 16, y: 128}
+        - {x: 6, y: 129}
+        - {x: -8, y: 129}
+        - {x: -16, y: 128}
+        - {x: -36, y: 124}
+        - {x: -51, y: 119}
+        - {x: -75, y: 106}
+        - {x: -83, y: 100}
+        - {x: -98, y: 86}
+        - {x: -106, y: 76}
+        - {x: -114, y: 64}
+        - {x: -123, y: 44}
+        - {x: -125, y: 38}
+        - {x: -130, y: 19}
+        - {x: -132, y: 1}
+        - {x: -132, y: -11}
+        - {x: -131, y: -19}
+        - {x: -130, y: -25}
+        - {x: -127, y: -39}
+        - {x: -122, y: -54}
+        - {x: -109, y: -78}
+        - {x: -98, y: -92}
+        - {x: -83, y: -106}
+        - {x: -72, y: -114}
+        - {x: -48, y: -127}
+        - {x: -22, y: -133}
+        - {x: 22, y: -133}
+      physicsShape: []
+      tessellationDetail: 0.297
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 353
+        width: 244
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 198
+        width: 323
+        height: 77
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 21, y: 0, z: 16, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar_3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 43
+        width: 411
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -116, y: 17}
+      - {x: -86, y: 80}
+      - {x: -86, y: 195}
+      - {x: -136, y: 273}
+      - {x: -160, y: 276}
+      - {x: -297, y: 276}
+      - {x: -307, y: 274}
+      - {x: -350, y: 199}
+      - {x: -350, y: 94}
+      - {x: -332, y: 66}
+      - {x: -278, y: 12}
+      - {x: -159, y: 12}
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      avatar_0: 21300000
+      avatar_1: 21300002
+      avatar_2: 21300004
+      avatar_3: 21300006
+      avatar_4: 1405013123
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
